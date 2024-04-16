@@ -1,4 +1,8 @@
 # maquinaGalton
+
+##El proyecto se encuentra dentro de la carpeta .venv
+
+
 Durante la elaboracion del proyecto tuve dificultades con el uso de modulos o librerias, al buscar mas detalladamente aprendí a instalar los archivos pip su manejo y para que sirven; como las funciones de .venv así como trabajar con PyCharm.
 
 Posteriormente entendí el funcionamiento básico de numpy, from collections import counter, seaborn, matplotlib y random. para generar numero aleatorios, graficar y hacer variaciones en las mismas, así como para contar los elementos repetidos en una lista.
